@@ -32,9 +32,18 @@
 // arraySample()
 // tupleSample()
 
-import genericsBasicSample from './generics/basic'
-import mapStringsToNumbers from './generics/advanced'
+// import genericsBasicSample from './generics/basic'
+// import mapStringsToNumbers from './generics/advanced'
 
-genericsBasicSample()
+// genericsBasicSample()
 
-mapStringsToNumbers()
+// mapStringsToNumbers()
+
+// import callbackSample from './asynchronous/callback'
+// import promiseSample from './asynchronous/promise'
+
+import asynchAwaitSample from './asynchronous/asyncAwait'
+// callbackSample()
+
+// promiseSample()
+asynchAwaitSample()
